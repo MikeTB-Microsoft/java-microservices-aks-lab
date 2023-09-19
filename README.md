@@ -1,6 +1,6 @@
 # Lab: Deploying and running Java Applications in Azure Kubernetes
 
-This lab teaches you how to deploy the [Spring Petclinic Microservices](https://github.com/Azure-Samples/java-microservices-aks-lab/tree/main/src) application to an AKS cluster and integrate it with additional Azure services.
+This lab teaches you how to deploy the [Spring Petclinic Microservices](https://github.com/Azure-Samples/java-microservices-aks-lab/tree/main/src) application to an AKS cluster and integrate it with additional Azure services...
 
 ## Modules
 
